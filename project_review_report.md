@@ -1,6 +1,6 @@
 # 📊 프로젝트 통합 코드 리뷰 리포트
 
-**분석 범위:** `C:\final_project` 현재 폴더 기준.
+**분석 범위:**  `C:\final_project` 현재 폴더 기준.
 worktrees, `_upstream-online-boutique`, generated proto, lockfile은 제외하고 실제 유지보수 대상 코드/IaC 중심으로 분석했습니다.
 
 ---
